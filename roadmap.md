@@ -3,6 +3,7 @@
 - [x] buy a `domain name`{theorypi.com}
 - [x] choose a secure application `framework`{[hapi](http://hapijs.com)}
 - [x] choose a `database` tool{[MongoDB](https://www.mongodb.org)}
+- [x] add a team-mate @qq563959558
 - [ ] ...
 - [ ] ...
 - [ ] ...
@@ -20,6 +21,7 @@
   - [ ] templating engine: [Jade](http://jade-lang.com)
   - [ ] css pre-processors: [Stylus](https://learnboost.github.io/stylus/)
   - [ ] javascript pre-processors: [Coffeescript](http://coffeescript.org)
+  - [ ] react magic: [React](http://facebook.github.io/react/)
 
 - [ ] **back-end**:
   - [ ] [Mongoose.js](http://mongoosejs.com) 
